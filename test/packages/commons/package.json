@@ -1,0 +1,9 @@
+{
+  "name": "@bizaway/commons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo testing common, ver: $npm_package_version"
+  }
+}

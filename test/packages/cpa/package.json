@@ -1,0 +1,9 @@
+{
+  "name": "cpa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo testing cpa, ver: $npm_package_version"
+  }
+}
