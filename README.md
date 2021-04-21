@@ -7,8 +7,13 @@ pippo
 ```bash
 npm i pippojs
 ```
+## Usage
 
-## Version 1.0.0
+```
+const pippo = require('pippojs');
+pippo.pippo();
+```
+## Version 1.0.2
 pippo
 
 ## pippo license
