@@ -1,9 +1,0 @@
-{
-  "name": "platform",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "test": "echo testing platform, ver: $npm_package_version"
-  }
-}
