@@ -1,4 +1,11 @@
 /**
- * pippo
+ * pippojs
  */
-console.log('pippo');
+
+const pippo = () => {
+    console.log('pippo');
+};
+
+module.exports = {
+    pippo: pippo
+};
