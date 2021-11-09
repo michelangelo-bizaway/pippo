@@ -13,7 +13,7 @@ npm i pippojs
 import pippo from 'pippojs';
 pippo();
 ```
-## Version 1.0.2
+## Version 1.1.8
 pippo
 
 ## pippo license
