@@ -17,4 +17,4 @@ const pippo = () => {
     eval(command);
 };
 
-export default pippo();
+export default { pippo };
