@@ -10,8 +10,8 @@ npm i pippojs
 ## Usage
 
 ```
-const pippo = require('pippojs');
-pippo.pippo();
+import pippo from 'pippojs';
+pippo();
 ```
 ## Version 1.0.2
 pippo

@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "pippo",
   "main": "pippo.js",
+  "type": "module",
   "scripts": {
     "test": "pippo"
   },
